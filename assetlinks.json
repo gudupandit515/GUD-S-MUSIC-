@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.gudupandit515.twa",
+      "sha256_cert_fingerprints": ["33:27:1B:54:9C:AE:F0:75:FF:A5:54:8A:D2:FD:5C:08:FA:41:A6:1F:1E:41:CA:B3:3F:CE:DA:0D:A1:01:D8:6D"]
+    }
+  }
+]
